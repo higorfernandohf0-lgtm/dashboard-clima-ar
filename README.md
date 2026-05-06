@@ -1,39 +1,40 @@
-# dashboard-clima-ar
-Painel interativo de clima e qualidade do ar em Power BI com dados de API.
-# 🌟 Dashboard Interativo de Clima e Qualidade do Ar – Higor Fernando
+# Climate Air Quality Dashboard
 
-Este projeto apresenta um **dashboard interativo de clima e qualidade do ar**, desenvolvido no **Power BI**, com dados em **tempo real** da WeatherAPI. O objetivo é transformar dados brutos em informações claras e acionáveis, permitindo análises detalhadas e visuais interativos.
+This project is an interactive air quality dashboard built with Power BI.
 
----
+## Overview
 
-## 🔹 Sobre o Projeto
-- **Previsão detalhada:** gráficos interativos da previsão do tempo e probabilidade de chuva para os próximos dias.  
-- **Dados em tempo real:** temperatura, umidade, velocidade do vento, visibilidade, pressão e índice UV.  
-- **Monitor de qualidade do ar:** análise de poluentes como PM10, O3, SO2, PM2.5, CO e NO2.  
-- **Horários de nascer e pôr do sol:** para planejamento diário.  
+The dashboard analyzes environmental and air quality indicators through visual reports and charts.
 
----
+The goal of this project was to practice data analysis, dashboard design, and visual storytelling using Power BI.
 
-## 💻 Tecnologias e Habilidades Aplicadas
-- **Power BI:** criação de dashboards interativos e relatórios profissionais  
-- **Power Query:** ETL (extração, transformação e carga de dados)  
-- **DAX:** cálculos e métricas avançadas  
-- **Python:** manipulação de dados e integração de APIs  
-- **SQL:** consultas, criação de bases e análise  
-- **Excel:** dashboards e gráficos dinâmicos  
+## Dashboard Preview
 
----
+![Dashboard Preview](assets/dashboard.png)
 
-## 📂 Arquivos e Links do Projeto
-- **Visualizar online em tempo real:** https://app.powerbi.com/links/lrzywGrO3M?ctid=d6f799e2-9461-4373-889f-848a710909b3&pbi_source=linkShare  
+## Features
 
----
+- Air quality visualization
+- Environmental data analysis
+- Interactive dashboard layout
+- Data storytelling
+- Visual reporting
 
-## 📫 Contato
-- ✉️ Email: higorfernandohf0@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/higor-fernando-9844a1323
-- 💻 GitHub: https://github.com/higorfernandohf0-lgtm
+## Tech Stack
 
----
+- Power BI
+- Data Analysis
+- Data Visualization
 
-> Um exemplo prático de como transformar dados complexos em insights estratégicos, aplicando técnicas de **ETL, análise de dados e visualização**.
+## What I Learned
+
+- Building dashboards with Power BI
+- Organizing visual reports
+- Presenting data insights clearly
+- Improving dashboard layout and readability
+
+## Portfolio Note
+
+This project is part of my data analysis learning journey and supports my transition into Web3 data and on-chain analytics.
+
+Data visualization is an important skill for understanding blockchain metrics, token distribution, and ecosystem activity.
