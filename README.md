@@ -10,7 +10,17 @@ The goal of this project was to practice data analysis, dashboard design, and vi
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard.png)
+### Main Dashboard
+
+![Main Dashboard](assets/dashboard-overview.png)
+
+### Air Quality Analysis
+
+![Air Quality](assets/air-quality-panel.png)
+
+### Weather Forecast
+
+![Weather Forecast](assets/weather-forecast-panel.png)
 
 ## Features
 
